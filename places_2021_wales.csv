@@ -1,25 +1,9 @@
 code,name,namew,type,parent
-W92000004,Wales,Cymru,ctry,K04000001
 W06000001,Isle of Anglesey,Ynys Môn,lad,W92000004
 W06000002,Gwynedd,Gwynedd,lad,W92000004
 W06000003,Conwy,Conwy,lad,W92000004
 W06000004,Denbighshire,Sir Ddinbych,lad,W92000004
 W06000005,Flintshire,Sir y Fflint,lad,W92000004
 W06000006,Wrexham,Wrecsam,lad,W92000004
-W06000008,Ceredigion,Ceredigion,lad,W92000004
-W06000009,Pembrokeshire,Sir Benfro,lad,W92000004
-W06000010,Carmarthenshire,Sir Gaerfyrddin,lad,W92000004
-W06000011,Swansea,Abertawe,lad,W92000004
-W06000012,Neath Port Talbot,Castell-nedd Port Talbot,lad,W92000004
-W06000013,Bridgend,Pen-y-bont ar Ogwr,lad,W92000004
-W06000014,Vale of Glamorgan,Bro Morgannwg,lad,W92000004
-W06000015,Cardiff,Caerdydd,lad,W92000004
-W06000016,Rhondda Cynon Taf,Rhondda Cynon Taf,lad,W92000004
-W06000018,Caerphilly,Caerffili,lad,W92000004
-W06000019,Blaenau Gwent,Blaenau Gwent,lad,W92000004
-W06000020,Torfaen,Tor-faen,lad,W92000004
-W06000021,Monmouthshire,Sir Fynwy,lad,W92000004
-W06000022,Newport,Casnewydd,lad,W92000004
-W06000023,Powys,Powys,lad,W92000004
-W06000024,Merthyr Tydfil,Merthyr Tudful,lad,W92000004
 K04000001,England and Wales,Cymru a Lloegr,ew,
+W92000004,Wales,Cymru,ctry,K04000001

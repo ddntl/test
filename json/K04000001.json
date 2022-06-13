@@ -7,11 +7,6 @@
   "parents": [],
   "children": [
     {
-      "code": "E92000001",
-      "name": "England",
-      "type": "ctry"
-    },
-    {
       "code": "W92000004",
       "name": "Wales",
       "type": "ctry"

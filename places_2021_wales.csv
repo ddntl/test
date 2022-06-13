@@ -1,9 +1,10 @@
 code,name,namew,type,parent
+E92000001,England,Lloegr,ctry,K04000001
+K04000001,England and Wales,Cymru a Lloegr,ew,
 W06000001,Isle of Anglesey,Ynys Môn,lad,W92000004
 W06000002,Gwynedd,Gwynedd,lad,W92000004
 W06000003,Conwy,Conwy,lad,W92000004
 W06000004,Denbighshire,Sir Ddinbych,lad,W92000004
 W06000005,Flintshire,Sir y Fflint,lad,W92000004
 W06000006,Wrexham,Wrecsam,lad,W92000004
-K04000001,England and Wales,Cymru a Lloegr,ew,
 W92000004,Wales,Cymru,ctry,K04000001

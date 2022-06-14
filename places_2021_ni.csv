@@ -1,0 +1,16 @@
+code,name,namew,type,parent
+N92000001,Northern Ireland,,ctry,K04000001
+N10000102,Antrim DEA,,lad,N09000001
+N10000101,Airport DEA,,lad,N09000001
+N09000010,"Newry, Mourne and Down",,lad,N92000001
+N09000011,Ards and North Down,,lad,N92000001
+N09000001,Antrim and Newtownabbey,,lad,N92000001
+N09000007,Lisburn and Castlereagh,,lad,N92000001
+N09000002,"Armagh City, Banbridge and Craigavon",,lad,N92000001
+N09000008,Mid and East Antrim,,lad,N92000001
+N09000004,Causeway Coast and Glens,,lad,N92000001
+N09000003,Belfast,,lad,N92000001
+N09000009,Mid Ulster,,lad,N92000001
+N09000005,Derry City and Strabane,,lad,N92000001
+N09000006,Fermanagh and Omagh,,lad,N92000001
+K04000001,United Kingdom,,ew,

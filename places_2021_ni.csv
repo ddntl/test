@@ -1,5 +1,5 @@
 code,name,namew,type,parent
-N92000001,Northern Ireland,,ctry,K04000001
+N92000001,Northern Ireland,,ctry,
 N10000102,Antrim DEA,,lad,N09000001
 N10000101,Airport DEA,,lad,N09000001
 N09000010,"Newry, Mourne and Down",,lad,N92000001
@@ -13,4 +13,3 @@ N09000003,Belfast,,lad,N92000001
 N09000009,Mid Ulster,,lad,N92000001
 N09000005,Derry City and Strabane,,lad,N92000001
 N09000006,Fermanagh and Omagh,,lad,N92000001
-K04000001,England and Wales,Cymru a Lloegr,ew,

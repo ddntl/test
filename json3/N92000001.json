@@ -4,13 +4,7 @@
   "type": "ctry",
   "area": 20730.98,
   "count": 2,
-  "parents": [
-    {
-      "code": "K04000001",
-      "name": "United Kingdom",
-      "type": "ew"
-    }
-  ],
+  "parents": [],
   "children": [
     {
       "code": "N09000001",
